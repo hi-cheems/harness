@@ -1,0 +1,1 @@
+将 /agents/skills 目录下的 skill 安装到 ～/.agents/skills 下
